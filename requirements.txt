@@ -1,0 +1,14 @@
+# AXON Programming Language Requirements
+# These are the Python packages required to run the AXON interpreter
+
+# Core dependencies
+# No external dependencies required for basic functionality
+
+# Optional dependencies for advanced features
+# threading - Built into Python
+# queue - Built into Python
+# collections - Built into Python
+# os - Built into Python
+# sys - Built into Python
+# re - Built into Python
+# time - Built into Python 
